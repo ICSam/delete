@@ -1,0 +1,28 @@
+.container  {
+    width: 100%;
+    font-family: 'Poppins', sans-serif;
+}
+
+.top_block {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title_main {
+    align-items: center;
+    text-align: center;
+    font-size: 40px;
+}
+
+.paragraf {
+    align-items: center;
+    text-align: center;
+    width: 70%;
+    margin: 0 15%;
+}
+
+.bottom_block {
+    display: flex;
+    justify-content: space-between;
+}

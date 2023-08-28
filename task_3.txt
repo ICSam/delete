@@ -1,0 +1,12 @@
+Цвет фона: #CCF0E6
+Шрифт: Poppins
+
+Цвет шрифта: #486958
+
+Размер шрифта: 20pxs
+
+Содержимое первого параграфа: Spice up your space even simpler than you think
+
+Содержимое второго параграфа: We provide design and build for commercial building, interior and furniture to improve the better life. 
+
+Задача: сверстать также как и на картинке, верстка должна быть адаптивной, создать отдельный репозиторий в гитхабе и залить туда этот таск
